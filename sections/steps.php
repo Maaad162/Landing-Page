@@ -23,7 +23,7 @@
             
             <div class="col-lg-6 ps-lg-5 position-relative">
                 <div class="bg-white p-4 rounded-5 shadow-lg position-relative" style="z-index: 1;">
-                    <img src="img/booking-trip.jpg" alt="Grécia" class="img-fluid rounded-4 mb-3 w-100 shadow-sm">
+                    <img src="styles/img/greece.png" alt="Grécia" class="img-fluid rounded-4 mb-3 w-100 shadow-sm">
                     <h5 class="fw-bold mb-2">Viagem para Grécia</h5>
                     <p class="text-muted small mb-3">14-29 Junho | por Robbin Joseph</p>
                     <div class="d-flex gap-3 mb-3">

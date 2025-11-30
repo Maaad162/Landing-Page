@@ -5,7 +5,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
                 <div class="card destination-card h-100 border-0 shadow-lg rounded-4 overflow-hidden">
-                    <img src="img/destination-rome.jpg" class="card-img-top" alt="Roma" style="height: 300px; object-fit: cover;">
+                    <img src="styles/img/rome.png" class="card-img-top" alt="Roma" style="height: 300px; object-fit: cover;">
                     <div class="card-body p-4 text-start bg-white">
                         <div class="d-flex justify-content-between mb-3 text-muted fw-bold">
                             <span>Roma, IT</span><span>$5,42k</span>
@@ -16,7 +16,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="card destination-card h-100 border-0 shadow-lg rounded-4 overflow-hidden">
-                    <img src="img/destination-london.jpg" class="card-img-top" alt="Londres" style="height: 300px; object-fit: cover;">
+                    <img src="styles/img/london.png" class="card-img-top" alt="Londres" style="height: 300px; object-fit: cover;">
                     <div class="card-body p-4 text-start bg-white">
                         <div class="d-flex justify-content-between mb-3 text-muted fw-bold">
                             <span>Londres, UK</span><span>$4.2k</span>
@@ -27,7 +27,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="card destination-card h-100 border-0 shadow-lg rounded-4 overflow-hidden">
-                    <img src="img/destination-europe.jpg" class="card-img-top" alt="Europa" style="height: 300px; object-fit: cover;">
+                    <img src="styles/img/europe.png" class="card-img-top" alt="Europa" style="height: 300px; object-fit: cover;">
                     <div class="card-body p-4 text-start bg-white">
                         <div class="d-flex justify-content-between mb-3 text-muted fw-bold">
                             <span>Europa Total</span><span>$15k</span>
