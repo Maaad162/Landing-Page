@@ -41,8 +41,8 @@
                     </div>
                     <h5 class="text-muted mb-3 fs-6">Baixe nosso app</h5>
                     <div class="d-flex gap-2">
-                        <img src="img/btn-google-play.png" height="30" alt="Google Play" style="cursor: pointer;">
-                        <img src="img/btn-app-store.png" height="30" alt="App Store" style="cursor: pointer;">
+                        <img src="styles/img/google-play.png" height="30" alt="Google Play" style="cursor: pointer;">
+                        <img src="styles/img/app-store.png" height="30" alt="App Store" style="cursor: pointer;">
                     </div>
                 </div>
             </div>
