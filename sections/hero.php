@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="col-lg-6 text-center position-relative">
-                <img src="img/hero-traveler.png" alt="Viajante Jadoo" class="img-fluid position-relative" style="z-index: 2; max-height: 650px;">
+                <img src="styles/img/traveler.png" alt="Viajante Jadoo" class="img-fluid position-relative" style="z-index: 2; max-height: 650px;">
             </div>
         </div>
     </div>
