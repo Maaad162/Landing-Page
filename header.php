@@ -27,18 +27,18 @@
             
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link" href="#">Destinos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Hotéis</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Voos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Reservas</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Desitnations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Hotels</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Flight</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Bookings</a></li>
                     <li class="nav-item ms-lg-4"><a class="nav-link" href="#">Login</a></li>
                     <li class="nav-item ms-lg-2">
-                        <a href="#" class="btn btn-outline-custom">Cadastre-se</a>
+                        <a href="#" class="btn btn-outline-custom">Sign up</a>
                     </li>
                     <li class="nav-item ms-lg-3 dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">PT</a>
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">EN</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#">EN</a></li>
+                          <li><a class="dropdown-item" href="#">PT</a></li>
                           <li><a class="dropdown-item" href="#">ES</a></li>
                         </ul>
                     </li>

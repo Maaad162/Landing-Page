@@ -3,33 +3,33 @@
             <div class="row gy-4">
                 <div class="col-lg-3 col-md-6">
                      <a class="navbar-brand fs-2 mb-3 d-block" href="#">Jadoo.</a>
-                     <p class="small text-muted">Agende sua viagem em minutos, com controle total por muito mais tempo.</p>
+                     <p class="small text-muted">Book your trip in minute, get full Control for much longer.</p>
                 </div>
                 
                  <div class="col-lg-2 col-md-6 offset-lg-1">
-                    <h5 class="footer-heading">Empresa</h5>
+                    <h5 class="footer-heading">Company</h5>
                     <ul class="footer-links">
-                        <li><a href="#">Sobre</a></li>
-                        <li><a href="#">Carreiras</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Careers</a></li>
                         <li><a href="#">Mobile</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-2 col-md-6">
-                    <h5 class="footer-heading">Contato</h5>
+                    <h5 class="footer-heading">Contact</h5>
                     <ul class="footer-links">
-                        <li><a href="#">FAQ / Ajuda</a></li>
-                        <li><a href="#">Imprensa</a></li>
-                        <li><a href="#">Afiliados</a></li>
+                        <li><a href="#">Help / FAQ</a></li>
+                        <li><a href="#">Press</a></li>
+                        <li><a href="#">Affilates</a></li>
                     </ul>
                 </div>
                 
                 <div class="col-lg-2 col-md-6">
-                    <h5 class="footer-heading">Mais</h5>
+                    <h5 class="footer-heading">More</h5>
                     <ul class="footer-links">
-                        <li><a href="#">Taxas Aéreas</a></li>
-                        <li><a href="#">Companhias</a></li>
-                        <li><a href="#">Dicas de Voo</a></li>
+                        <li><a href="#">Airlinefees</a></li>
+                        <li><a href="#">Airline</a></li>
+                        <li><a href="#">Low fare tips</a></li>
                     </ul>
                 </div>
                 
@@ -39,7 +39,7 @@
                         <a href="#" class="social-icon-circle"><i class="bi bi-instagram"></i></a>
                         <a href="#" class="social-icon-circle"><i class="bi bi-twitter"></i></a>
                     </div>
-                    <h5 class="text-muted mb-3 fs-6">Baixe nosso app</h5>
+                    <h5 class="text-muted mb-3 fs-6">Discover our app</h5>
                     <div class="d-flex gap-2">
                         <img src="styles/img/google-play.png" height="30" alt="Google Play" style="cursor: pointer;">
                         <img src="styles/img/app-store.png" height="30" alt="App Store" style="cursor: pointer;">
@@ -49,7 +49,7 @@
             
             <div class="row mt-5">
                 <div class="col-12 text-center text-muted small">
-                    Todos os direitos reservados @doo.co
+                    All rights reserved @jadoo.co
                 </div>
             </div>
         </div>

@@ -1,5 +1,4 @@
 <?php 
-// Carrega o cabeçalho (HTML head + Navbar)
 include 'header.php'; 
 ?>
 
@@ -18,6 +17,5 @@ include 'header.php';
     <?php include 'sections/newsletter.php'; ?>
 
 <?php 
-// Carrega o rodapé (Footer + Scripts)
 include 'footer.php'; 
 ?>

@@ -14,18 +14,18 @@
 
                 <div class="py-lg-4 px-lg-5 position-relative" style="z-index: 2;">
                     <h2 class="mb-5 px-lg-5 fw-bold" style="color: #5E6282; line-height: 1.4;">
-                        Inscreva-se para receber informações, notícias e ofertas sobre a Jadoo
+                            Subscrabe to get information, latest news and other interesting offers about Jadoo
                     </h2>
 
                     <div class="d-flex flex-column flex-sm-row justify-content-center gap-3 w-100 mx-auto"
                         style="max-width: 600px;">
                         <div class="flex-grow-1 bg-white rounded-3 p-2 shadow-sm d-flex align-items-center">
                             <i class="bi bi-envelope text-muted ms-3"></i>
-                            <input type="email" class="form-control border-0 shadow-none" placeholder="Seu email">
+                            <input type="email" class="form-control border-0 shadow-none" placeholder="Your email">
                         </div>
                         <button class="btn btn-subscribe text-white px-4 py-3 rounded-3 fw-bold"
                             style="background: linear-gradient(to right, #FF946D, #FF7D68); border: none;">
-                            Inscrever
+                            Subscribe
                         </button>
                     </div>
                 </div>
@@ -38,7 +38,6 @@
                     </svg>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
